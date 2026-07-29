@@ -1,0 +1,21 @@
+{
+  "name": "generic-i2c",
+  "version": "2.0.0",
+  "description": "Generic I2C Extension for MakeCode Maker",
+  "license": "MIT",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "enums.ts",
+    "generici2c.ts"
+  ],
+  "testFiles": [
+    "test.ts"
+  ],
+  "supportedTargets": [
+    "maker"
+  ],
+  "preferredEditor": "blocks",
+  "public": true
+}
